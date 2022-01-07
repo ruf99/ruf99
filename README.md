@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruf99
-- 👀 I’m interested in building my knowledge of coding and developing, baking, reading, painting, binge-watching everything out there. 
+- 👀 I’m interested in building my knowledge of coding and developing.
 - 🌱 I’m currently learning R (Political Trend Mapping)
-- 💞️ I’m looking to collaborate on any interesting projects that may involve Politics or Ethical Tech.
+- 💞️ I’m looking to collaborate on any interesting projects (that may or maynot involve Politics or Ethical Tech).
 - 📫 How to reach me - email (rk3963@nyu.edu)
 
 <!---
